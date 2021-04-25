@@ -1,0 +1,28 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "produto": "HTML",
+      "tipo": "EAD",
+      "preco": 200
+    },
+    {
+      "id": 2,
+      "produto": "CSS",
+      "tipo": "Presencial",
+      "preco": 150
+    },
+    {
+      "id": 3,
+      "produto": "JavaScript",
+      "tipo": "Presencial",
+      "preco": 400
+    },
+    {
+      "produto": "Angular",
+      "tipo": "EAD",
+      "preco": 150,
+      "id": 4
+    }
+  ]
+}
