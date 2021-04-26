@@ -1,4 +1,4 @@
-<h1 align="center">Teste front-end Itaú</h1>
+<h1 align="center">Teste front-end</h1>
 
 <p align="justify">Aplicação desenvolvida em Angular utilizando-se de API Rest fake, onde realizamos um CRUD completo. </p>
 
