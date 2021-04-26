@@ -15,10 +15,10 @@
 
 >Status do projeto: Concluído :heavy_check_mark:
 
-# Pré-requisitos
+### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Angular](https://angular.io),[json server](https://www.npmjs.com/package/json-server) 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Angular](https://angular.io), [json server](https://www.npmjs.com/package/json-server) 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Rodando a aplicação
